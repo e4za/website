@@ -29,6 +29,12 @@
         background-color: var(--void);
         font-family: "Raleway";
         color: var(--white);
+        line-height: 1.5;
+        font-size:large;
+    }
+    a {
+        color: var(--purple-300);
+        font-weight: bold;
     }
     h1 {
         color: var(--purple-300);
@@ -38,11 +44,26 @@
     h2 {
         color: var(--purple-200);
     }
+
+    .inline-container {
+    display: flex;
+      justify-content: center;
+    align-items: center; 
+    gap: 0.25in;
+    }
+
+    .inline-img {
+    width: 50px;
+    height: auto;
+    }
     </style>
 </head>
 <body>
     <p><em>*work in progress</em></p>
-    <h1 id="title">eza · aspiring engineer</h1>
+    <div class="inline-container">
+        <span><h1 id="title">eza · aspiring engineer</h1></span>
+        <img src="sona.png" alt="profile picture" style="vertical-align: middle; width: 1in; height: 1in;" class="inline-img">
+    </div>
     <h2>who am i?</h2>
     <p>hi, my name is eza, and i've grown up and still live in in seattle, wa. i'm a guy who really likes to make things. i especially like to make things with CAD, and the engineering design process. i've built, programmed, and produced a lot of things</p>
     <h2>my experience</h2>
@@ -51,14 +72,14 @@
         <ul>
             <li>2 years in C++ programming robots for the VEX Robotics competition</li>
             <li>around 7 years of programming games (and simulations) on roblox using luau</li>
-            <li>learned java for a computer science course in school</li>
-            <li>picked up miscellaneous syntax knowledge of python and a few other languages</li>
-            <li>overall, i already have an extremely solid foundation of programming, and i'm open to developing new skills in new frameworks</li>
+            <li>python to contribute to an open-source discord bot</li>
+            <li>java for a computer science course in school</li>
+            <li>extremely solid foundation of programming, open to developing new skills in new frameworks</li>
         </ul>
         <li>1 year of CAD experience in Fusion 360</li>
         <li>2 years of being designer and builder in my VEX Robotics team</li>
         <li>3 years of running a programming club throughout 2021-2024</li>
-        <li>volunteer work for UW summer camps, specifically in a course called "Engineering Challenges"</li>
+        <li>volunteer work for UW summer camps during summer 2025 and 2026, specifically in a course called "Engineering Challenges"</li>
         <li>various experience producing videos</li>
         <ul>
             <li>produced 2 robot reveal videos for my robotics club</li>
@@ -68,18 +89,27 @@
     </ul>
     <h2>my accomplishments</h2>
     <ul>
-        <li>2026 -- won the inspire award for my robotics team at SVEC High Voltage, a VEX Robotics tournament</li>
-        <li>2026 -- also ranked 3rd in that competition, and 5th ranked in skills</li>
+        <li>jan. 2026 -- won the inspire award for my robotics team at SVEC High Voltage, a VEX Robotics tournament</li>
+        <li>jan. 2026 -- also ranked 3rd in that competition, and 5th ranked in skills</li>
     </ul>
    <h2>my education</h2>
    <ul>
-        <li>next year, i'll be in 11th grade and studying Calculus II and AP Physics C: Mechanics</li>
-        <li>my cumulative gpa thus far is 3.76</li>
+        <li>in 2026-2027, i'll be in 11th grade</li>
    </ul>
     <h2>my best projects</h2>
     <p>
-        coming soon :P
+        <ul>
+            <li><a href="https://github.com/ezpcole/lemlib-test-3">lemlib-test-3</a> | a repository for the C++ code of my 2025-2026 robot</li>
+            <ul>
+                <li>PID controller for drive motions</li>
+                <li>Arc-based odometry control loop</li>
+                <li>State-based intake control loop</li>
+                <li>Multithreading optimization</li>
+            </ul>
+            <li>more soon</li>
+        </ul>
     </p>
+   
 </body>
 <script src="index.js"></script>
 </html>
