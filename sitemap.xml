@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ezpcole.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://ezpcole.github.io/website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ezpcole.github.io/</loc>
+<loc>https://ezpcole.github.io/website/</loc>
 </url>
 <url>
-<loc>https://ezpcole.github.io/hi.html</loc>
+<loc>https://ezpcole.github.io/website/hi.html</loc>
 <lastmod>2026-08-26T23:47:21-07:00</lastmod>
 </url>
 <url>
-<loc>https://ezpcole.github.io/test.html</loc>
+<loc>https://ezpcole.github.io/website/test.html</loc>
 <lastmod>2026-08-26T23:47:46-07:00</lastmod>
 </url>
 </urlset>
