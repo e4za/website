@@ -5,12 +5,24 @@
 <loc>https://e4za.xyz/</loc>
 </url>
 <url>
-<loc>https://e4za.xyz/hi.html</loc>
-<lastmod>2026-08-26T23:47:21-07:00</lastmod>
+<loc>https://e4za.xyz/aboutme/</loc>
+<lastmod>2026-08-27T04:50:41-07:00</lastmod>
+<image:image>
+<image:loc>https://e4za.xyz/media/posts/1/211795102.png</image:loc>
+<image:title><![CDATA[cute cat]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://e4za.xyz/media/posts/1/gallery/Screenshot-2026-08-27-045029-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://e4za.xyz/media/posts/1/gallery/Screenshot-2026-08-01-142258-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://e4za.xyz/test.html</loc>
-<lastmod>2026-08-27T03:14:20-07:00</lastmod>
+<loc>https://e4za.xyz/portfolio/</loc>
+<lastmod>2026-08-27T04:36:56-07:00</lastmod>
 <image:image>
 <image:loc>https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204-thumbnail.png</image:loc>
 <image:title><![CDATA[Clementine 1.5]]></image:title>

@@ -3,7 +3,7 @@
     <title>e4za</title>
     <link href="https://e4za.xyz/feed.xml" rel="self" />
     <link href="https://e4za.xyz" />
-    <updated>2026-08-27T03:14:20-07:00</updated>
+    <updated>2026-08-27T04:36:56-07:00</updated>
     <author>
         <name>eza</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>eza</name>
         </author>
-        <link href="https://e4za.xyz/test.html"/>
-        <id>https://e4za.xyz/test.html</id>
+        <link href="https://e4za.xyz/portfolio/"/>
+        <id>https://e4za.xyz/portfolio/</id>
             <category term="portfolio"/>
             <category term="eza"/>
 
