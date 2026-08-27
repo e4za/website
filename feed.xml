@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>e4za</title>
-    <link href="https://07172009.xyz/feed.xml" rel="self" />
-    <link href="https://07172009.xyz" />
+    <link href="https://e4za.xyz/feed.xml" rel="self" />
+    <link href="https://e4za.xyz" />
     <updated>2026-08-27T02:25:13-07:00</updated>
     <author>
         <name>eza</name>
     </author>
-    <id>https://07172009.xyz</id>
+    <id>https://e4za.xyz</id>
 
     <entry>
         <title>Portfolio</title>
         <author>
             <name>eza</name>
         </author>
-        <link href="https://07172009.xyz/test.html"/>
-        <id>https://07172009.xyz/test.html</id>
+        <link href="https://e4za.xyz/test.html"/>
+        <id>https://e4za.xyz/test.html</id>
             <category term="portfolio"/>
             <category term="eza"/>
 
@@ -67,22 +67,22 @@
 <h2 id="mcetoc_1k117h3e75e">Robots</h2>
 <h3 id="mcetoc_1k117h3e75f">2026-2027 VRC Override</h3>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204.png" data-size="1811x1149"><img loading="lazy" src="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204-thumbnail.png" alt="Clementine 1.5" width="768" height="487"></a>
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204.png" data-size="1811x1149"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204-thumbnail.png" alt="Clementine 1.5" width="768" height="487"></a>
 <figcaption>August, 2026. Our current robot's CAD</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020451.png" data-size="1623x1133"><img loading="lazy" src="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020451-thumbnail.png" alt="Clementine 1.0" width="768" height="536"></a>
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020451.png" data-size="1623x1133"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020451-thumbnail.png" alt="Clementine 1.0" width="768" height="536"></a>
 <figcaption>June, 2026. Our first prototype robot's CAD</figcaption>
 </figure>
 </div></div>
 <h3 id="mcetoc_1k117h3e75g">2025-2026 VRC Push Back</h3>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021230.png" data-size="1035x1061"><img loading="lazy" src="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021230-thumbnail.png" alt="Sumo 5.0" width="768" height="787"></a>
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021230.png" data-size="1035x1061"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021230-thumbnail.png" alt="Sumo 5.0" width="768" height="787"></a>
 <figcaption>March, 2026. Prototype CAD that we didn't build</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020740.png" data-size="1623x1138"><img loading="lazy" src="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020740-thumbnail.png" alt="Sumo 4.0" width="768" height="538"></a>
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020740.png" data-size="1623x1138"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020740-thumbnail.png" alt="Sumo 4.0" width="768" height="538"></a>
 <figcaption>Februrary, 2026. Our last CAD for Push Back</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021108.png" data-size="1642x1131"><img loading="lazy" src="https://07172009.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021108-thumbnail.png" alt="Sumo 2.0" width="768" height="529"></a>
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021108.png" data-size="1642x1131"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-021108-thumbnail.png" alt="Sumo 2.0" width="768" height="529"></a>
 <figcaption>December, 2025. My first ever CAD</figcaption>
 </figure>
 </div></div>
