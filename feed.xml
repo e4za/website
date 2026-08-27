@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>e4za</title>
+    <link href="https://ezpcole.github.io/feed.xml" rel="self" />
+    <link href="https://ezpcole.github.io" />
+    <updated>2026-08-26T23:47:46-07:00</updated>
+    <author>
+        <name>eza</name>
+    </author>
+    <id>https://ezpcole.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>eza</name>
+        </author>
+        <link href="https://ezpcole.github.io/test.html"/>
+        <id>https://ezpcole.github.io/test.html</id>
+
+        <updated>2026-08-26T23:47:46-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
