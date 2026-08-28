@@ -3,7 +3,7 @@
     <title>e4za</title>
     <link href="https://e4za.xyz/feed.xml" rel="self" />
     <link href="https://e4za.xyz" />
-    <updated>2026-08-27T21:03:32-07:00</updated>
+    <updated>2026-08-27T21:06:32-07:00</updated>
     <author>
         <name>eza</name>
     </author>
@@ -65,8 +65,12 @@
 </ul>
 <h1 id="mcetoc_1k117h3e75d">Stuff I've Made</h1>
 <h2 id="mcetoc_1k117h3e75e">Robots</h2>
+<p>(click to expand on the images)</p>
 <h3 id="mcetoc_1k117h3e75f">2026-2027 VRC Override</h3>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-210511.png" data-size="829x1158"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-210511-thumbnail.png" alt="Side funnels made of plastic sheets" width="768" height="1073"></a>
+<figcaption>Some plastic parts I cut out for our current robot using CAM</figcaption>
+</figure>
 <figure class="gallery__item"><a href="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204.png" data-size="1811x1149"><img loading="lazy" src="https://e4za.xyz/media/posts/2/gallery/Screenshot-2026-08-27-020204-thumbnail.png" alt="Clementine 1.5" width="768" height="487"></a>
 <figcaption>August, 2026. Our current robot's CAD</figcaption>
 </figure>
